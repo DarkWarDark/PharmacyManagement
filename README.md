@@ -1,0 +1,2 @@
+# PharmacyManagement
+Pharmacy managament application
